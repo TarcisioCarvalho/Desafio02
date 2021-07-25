@@ -30,6 +30,7 @@ body{
     padding: 30px;
     border-radius: 4%;
     box-shadow: 3px 3px 1px 0 #00000060;
+    height: 100%;
 }
 
 h1{
